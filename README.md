@@ -66,9 +66,7 @@ parser.visit(ast, {
 })
 ```
 
-### Author
 
-Federico Bond ([@federicobond](https://github.com/federicobond))
 
 ### License
 
